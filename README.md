@@ -178,7 +178,7 @@ As we journey towards v1.0, our path includes enriching the page builder with a 
 ## 📸 Screenshots
 
 ![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-01-shop.jpg)
- 
+
 ![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-02-shop-category.jpg)
 
 ![Nebulix](https://nebulix.unfolding.io/screenshots/nebulix-03-shop-product.jpg)
@@ -196,5 +196,3 @@ As we journey towards v1.0, our path includes enriching the page builder with a 
 
 
 
-# portfolio-astro
-# portfolio-astro
